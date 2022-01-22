@@ -1,0 +1,7 @@
+Requirement already satisfied: lightgbm in c:\users\mikhail\anaconda3\lib\site-packages (3.3.2)
+Requirement already satisfied: scipy in c:\users\mikhail\anaconda3\lib\site-packages (from lightgbm) (1.6.2)
+Requirement already satisfied: wheel in c:\users\mikhail\anaconda3\lib\site-packages (from lightgbm) (0.36.2)
+Requirement already satisfied: scikit-learn!=0.22.0 in c:\users\mikhail\anaconda3\lib\site-packages (from lightgbm) (0.24.1)
+Requirement already satisfied: numpy in c:\users\mikhail\anaconda3\lib\site-packages (from lightgbm) (1.20.1)
+Requirement already satisfied: threadpoolctl>=2.0.0 in c:\users\mikhail\anaconda3\lib\site-packages (from scikit-learn!=0.22.0->lightgbm) (2.1.0)
+Requirement already satisfied: joblib>=0.11 in c:\users\mikhail\anaconda3\lib\site-packages (from scikit-learn!=0.22.0->lightgbm) (1.0.1)
