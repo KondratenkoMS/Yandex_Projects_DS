@@ -2,7 +2,7 @@
 
 Репозиторий учебных проектов яндекс практикума
 
-Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.7.5-blue)
+Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.7.5-red)
 
 | Название проекта | Описание | Стэк|
 |:----:|:----:|:----:|
