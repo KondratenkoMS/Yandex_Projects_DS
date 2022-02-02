@@ -6,6 +6,7 @@ Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.
 
 | Название проекта | Описание | Стэк|
 |:----:|:----:|:----:|
+|[Рекомендация тарифов](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Рекомендация%20тарифов/Рекомендация%20тарифов.ipynb)|Постройте систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».|pandas, numpy, matplotlib, seaborn, sklearn|
 |[Выбор локации для скважины](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Выбор%20локации%20для%20скважины/Выбор%20локации%20для%20скважины.ipynb)|Постройте модель для определения региона, где добыча принесёт наибольшую прибыль.| Bootstrap, pandas, numpy, matplotlib, seaborn, scipy, sklearn|
 |[Восстановление золота из золотосодержащей руды](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Сборный%20проект%20-%202/%20Восстановления%20золота%20из%20золотосодержащей%20руды.ipynb)| Подготовка прототипа модели машинного обучения, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды.| pandas, numpy, matplotlib, seaborn, sklearn|
 |[Защита персональных данных клиентов](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Защита%20персональных%20данных%20клиентов/Защита%20персональных%20данных%20клиентов.ipynb)|Нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось.|pandas, numpy, matplotlib, seaborn, sklearn|
