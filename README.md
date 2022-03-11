@@ -6,6 +6,7 @@ Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.
 
 | Название проекта | Описание | Стэк|
 |:----:|:----:|:----:|
+|[Исследование надёжности заёмщиков](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Предобработка%20данных/Предобработка%20данных.ipynb)|Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|pandas|
 |[Исследование объявлений о продаже квартир](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Исследовательский%20анализ%20данных/Исследовательский%20анализ%20данных.ipynb)| Нужно научиться определять рыночную стоимость объектов недвижимости, задача — установить параметры.| pandas, numpy, matplotlib, seaborn|
 |[Определение перспективного тарифа для телеком-компании](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Статистический%20анализ%20данных/Статистический%20анализ%20данных.ipynb)|Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.|pandas, numpy, matplotlib, seaborn, scipy|
 |[Анализ продаж игр](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Сборный%20проект%20-%201/Анализ%20продаж%20игр.ipynb)|Нужно выявить определяющие успешность игры закономерности.|pandas, numpy, matplotlib, seaborn, scipy|
