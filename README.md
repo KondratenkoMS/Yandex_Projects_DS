@@ -6,6 +6,7 @@ Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.
 
 | Название проекта | Описание | Стэк|
 |:----:|:----:|:----:|
+|[Определение перспективного тарифа для телеком-компании](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Статистический%20анализ%20данных/Статистический%20анализ%20данных.ipynb)|Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.|pandas, numpy, matplotlib, seaborn, scipy|
 |[Анализ продаж игр](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Сборный%20проект%20-%201/Анализ%20продаж%20игр.ipynb)|Нужно выявить определяющие успешность игры закономерности.|pandas, numpy, matplotlib, seaborn, scipy|
 |[Рекомендация тарифов](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Рекомендация%20тарифов/Рекомендация%20тарифов.ipynb)|Постройте систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».|pandas, numpy, matplotlib, seaborn, sklearn|
 |[Выбор локации для скважины](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Выбор%20локации%20для%20скважины/Выбор%20локации%20для%20скважины.ipynb)|Постройте модель для определения региона, где добыча принесёт наибольшую прибыль.| Bootstrap, pandas, numpy, matplotlib, seaborn, scipy, sklearn|
