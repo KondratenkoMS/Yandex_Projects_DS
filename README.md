@@ -24,4 +24,5 @@ Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.
 Желаю приятного просмотра!
 
 Мой email для связи: Mikhail97.kondratenko
+
 Telegram: @NaGaTo44
