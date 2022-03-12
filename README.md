@@ -24,9 +24,9 @@ Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.
 
 Желаю приятного просмотра!
 
-![alt text](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Михаил%20Кондратенко_20212DS00742.pdf)
+![alt text](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Yandex_certif/Михаил%20Кондратенко_20212DS00742_Страница_1_Изображение_0001.png)
 
-![alt text](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Mikhail%20Kondratenko_20212DS00742.pdf)
+![alt text](https://github.com/KondratenkoMS/Yandex_Projects_DS/blob/main/Yandex_certif/Михаил%20Кондратенко_20212DS00742_Страница_2_Изображение_0001.png)
 
 Мой email для связи: mikhail97.kondratenko@yandex.ru
 
